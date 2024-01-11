@@ -15,5 +15,8 @@ print(mylist[4:-3]) # 5 6 7
 print(mail[8 : 14]) # medium
 ```
 
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
 
 Added content to the index.md file.
